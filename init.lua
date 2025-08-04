@@ -28,7 +28,7 @@ require("lazy").setup({
 
 -- Treesitter syntax highlighting
 require("nvim-treesitter.configs").setup({
-  ensure_installed = { "javascript", "typescript", "html", "css", "json" },
+  ensure_installed = { "javascript", "typescript", "html", "css", "json", "svelte" },
   highlight = { enable = true },
 })
 
