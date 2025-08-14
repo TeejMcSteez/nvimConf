@@ -1,3 +1,6 @@
+-- Config Docs
+-- https://www.lazyvim.org/
+
 -- Base config
 vim.opt.number = true
 vim.opt.relativenumber = true
